@@ -4,7 +4,7 @@
   "main": "main.js",
   "scripts": {},
   "devDependencies": {
-    "eslint": "^1.2.1",
-    "eslint-plugin-react": "^3.2.3"
+    "eslint": "^2.7.0",
+    "eslint-plugin-react": "^4.3.0"
   }
 }
